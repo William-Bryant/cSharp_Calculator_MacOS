@@ -10,14 +10,11 @@ namespace CalculatorApp
         
         public ViewController(IntPtr handle) : base(handle)
         {
-            
         }
-
         public override void ViewDidLoad()
         {
             base.ViewDidLoad();
         }
-
         public override NSObject RepresentedObject
         {
             get
@@ -27,7 +24,6 @@ namespace CalculatorApp
             set
             {
                 base.RepresentedObject = value;
-  
             }
         }
         string valueOne = "";
@@ -86,8 +82,6 @@ namespace CalculatorApp
                 valueTwo += 0;
                 infoLabel.StringValue += 0;
             }
-
-
         }
         partial void btn_1(NSObject sender)
         {
@@ -100,9 +94,7 @@ namespace CalculatorApp
             {
                 valueTwo += 1;
                 infoLabel.StringValue += 1;
-            }
-
-                       
+            }             
         }
         partial void bnt_2(NSObject sender)
         {
@@ -273,7 +265,6 @@ namespace CalculatorApp
         {
             if (step == "first")
             {
-
                 step = "second";
                 operation = "divide";
                 infoLabel.StringValue = valueOne + " / ";
