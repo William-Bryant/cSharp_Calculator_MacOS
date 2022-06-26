@@ -1,0 +1,11 @@
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/bin/Debug/Calculator.exe
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/bin/Debug/Calculator.pdb
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Debug/actool/_PartialAppManifest.items
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Debug/CalculatorApp.csproj.AssemblyReference.cache
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Debug/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Debug/Calculator.exe
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Debug/Calculator.pdb

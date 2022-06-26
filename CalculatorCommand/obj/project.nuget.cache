@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5LQ+gDeygx0TQqZJkbIOGrt0GEAWK5gyVdHQmXjkRjqnIuwlmoq7x19k0FQpJHk6YpfQluOkTae2ziQv+oLZw==",
+  "success": true,
+  "projectFilePath": "/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorCommand/CalculatorCommand.csproj",
+  "expectedPackageFiles": [
+    "/Users/testUser/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

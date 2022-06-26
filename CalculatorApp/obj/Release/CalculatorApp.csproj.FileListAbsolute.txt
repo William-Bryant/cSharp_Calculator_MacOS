@@ -1,0 +1,10 @@
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/bin/Release/Calculator.exe
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/bin/Release/Calculator.pdb
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Release/actool/_PartialAppManifest.items
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Release/actool/_BundleResourceWithLogicalName.items
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Release/coremlc/_PartialAppManifest.items
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Release/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Release/Calculator.exe
+/Users/testUser/Desktop/cSharpPractice/CalculatorApp/CalculatorApp/obj/Release/Calculator.pdb
